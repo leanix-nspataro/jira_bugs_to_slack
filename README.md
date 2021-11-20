@@ -1,4 +1,4 @@
-# Jira bugs to Slack bugs channel
+# Jira bugs to Slack #bugs channel
 
 ## Requirements
 - python 3.x  
